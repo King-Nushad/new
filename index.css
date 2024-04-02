@@ -1,0 +1,17 @@
+*{
+    background-color: aqua;
+}
+
+.country{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#stylee{
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    
+    
+}
